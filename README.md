@@ -6,7 +6,7 @@ This is a course platform that provides learning resources for instruction in pr
 
 **Instructor**: illusion
 
-**Time**: Every morning (9:00-11:30)
+**Time**: Every morning (8:30-11:00)
 
 
 
