@@ -19,8 +19,8 @@ The plan includes 5 formal lectures and several discussion sessions , during whi
 | Date | Topic | Lecture Notes | Homemork | HW-Solutions |
 |:----------:|:----------:|:----------:|:----------:|:----------:|
 | 2025/2/2 | Exam 1 | | | |
-| 2025/2/3 | [Discussion Session 1](.\讲义\讲义1.pdf) | [Notes 1](.\Notes\Notes-1.pdf) | [HW-1](.\HW\HW-1.pdf) | HW-1-Ans.  |
-| 2025/2/4 | [Combinatorial Counting and the Binomial Theorem](.\讲义\讲义2.pdf) | Notes 2 | HW-2 | HW-2-Ans. |
+| 2025/2/3 | [Discussion Session 1](./讲义/讲义1.pdf) | [Notes 1](./Notes/Notes-1.pdf) | [HW-1](./HW/HW-1.pdf) | HW-1-Ans.  |
+| 2025/2/4 | [Combinatorial Counting and the Binomial Theorem](./讲义/讲义2.pdf) | Notes 2 | HW-2 | HW-2-Ans. |
 | 2025/2/5 | Conditional Probability  | Notes 3 | HW-3 | HW-3-Ans. |
 | 2025/2/6 | **A day off to relax** | | | |
 | 2025/2/7 | Distributions and Numerical Characteristics of One-dimensional Random Variables  | Notes 4 | HW-4 | HW-4-Ans. |
