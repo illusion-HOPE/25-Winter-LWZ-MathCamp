@@ -14,7 +14,7 @@ This is a course platform that provides learning resources for instruction in pr
 
 # Tentative Course Calendar:
 
-The plan includes 5 formal lectures and several discussion sessions , during which we will place special emphasis on **fundamental concepts** and **the detailed proofs of basic principles**.
+The plan includes 6 formal lectures and several discussion sessions , during which we will place special emphasis on **fundamental concepts** and **the detailed proofs of basic principles**.
 
 | Date | Topic | Lecture Notes | Homemork |
 |:----------:|:----------:|:----------:|:----------:|
