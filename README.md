@@ -21,8 +21,8 @@ The plan includes 5 formal lectures and several discussion sessions , during whi
 | 2025/2/2 | [Exam 1](./Exam1.pdf) | | | |
 | 2025/2/3 | **A day off to relax** | | |
 | 2025/2/4 | [Discussion Session 1](./讲义/讲义1.pdf) | [Notes 1](./Notes/Notes-1.pdf) | [HW-1](./HW/HW-1.pdf) | 
-| 2025/2/5 | [Combinatorial Counting and the Binomial Theorem](./讲义/讲义2.pdf) | [Notes 2](./Notes/Notes-2.pdf) | [HW-2](./HW/HW-2.pdf) | 
-| 2025/2/6 | [Conditional Probability](./讲义/讲义3.pdf)  | Notes 3 | HW-3 | 
+| 2025/2/5 | [Combinatorial Counting](./讲义/讲义2.pdf) | [Notes 2](./Notes/Notes-2.pdf) | [HW-2](./HW/HW-2.pdf) | 
+| 2025/2/6 | [The Binomial Theorem and Conditional Probability](./讲义/讲义3.pdf)  | Notes 3 | HW-3 | 
 | 2025/2/7 | Distributions and Numerical Characteristics of One-dimensional Random Variables  | Notes 4 | HW-4 | 
 | 2025/2/8 | Statistical Analysis of Paired Data | Notes 5 | HW-5 |
 | 2025/2/9 | **A day off to relax** | | | 
