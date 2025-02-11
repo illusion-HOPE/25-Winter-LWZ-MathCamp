@@ -25,10 +25,10 @@ The plan includes 5 formal lectures and several discussion sessions , during whi
 | 2025/2/6 | [The Binomial Theorem ](./讲义/讲义3.pdf)  | [Notes 3](./Notes/Notes-3.pdf) | [HW-3](./HW/HW-3.pdf) | 
 | 2025/2/7 | [Conditional Probability, **The Memoryless Property of Ge(p) and Markov Chains**](./讲义/讲义4.pdf) | [Notes 4](./Notes/Notes-4.pdf) | [HW-4](./HW/HW-4.pdf) | 
 | 2025/2/8 | [Numerical Characteristics of One-Dimensional Random Variables](./讲义/讲义5.pdf)  | [Notes 5](./Notes/Notes-5.pdf) | [HW-5](./HW/HW-5.pdf) |
-| 2025/2/9 | Exam 2 (Time: 14:00-16:30) | | | 
-| 2025/2/10 | Discussion Session II for Exam 2 | Notes 6 | | 
-| 2025/2/11 | [Binomial, Hypergeometric and *Normal Distribution (optional)*](./讲义/讲义6.pdf) | Notes 7 | HW-6 |
-| 2025/2/12 | Statistical Analysis of Paired Data | Notes 8 |  |
+| 2025/2/9 | [Exam 2 (Time: 14:00-16:30)](./Exam2.pdf) | | | 
+| 2025/2/10 | Discussion Session II for Exam 2 | [Notes 6](./Notes/Notes-6.pdf) | | 
+| 2025/2/11 | [Binomial, Hypergeometric and *Normal Distribution (optional)*](./讲义/讲义6.pdf) | [Notes 7](./Notes/Notes-7.pdf) | [HW-6](./HW/HW-6.pdf) |
+| 2025/2/12 | [Statistical Analysis of Paired Data](./讲义/讲义7.pdf) | Notes 8 |  |
 
 
 
