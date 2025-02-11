@@ -1,6 +1,6 @@
 # 25-Winter-LWZ-MathCamp
 
-This is a course platform that provides learning resources for instruction in probability and statistics, within the scope of high school curriculum for this year's winter break.
+This is a course platform that provides learning resources for instruction in probability and statistics, within the scope of high school curriculum for 2025 winter break.
 
 ---
 
