@@ -14,7 +14,7 @@ This is a course platform that provides learning resources for instruction in pr
 
 # Tentative Course Calendar:
 
-The plan includes 5 formal lectures and several discussion sessions , during which we will place special emphasis on **fundamental concepts** and **the detailed proofs of basic principles**.
+The plan includes 6 formal lectures and several discussion sessions , during which we will place special emphasis on **fundamental concepts** and **the detailed proofs of basic principles**.
 
 | Date | Topic | Lecture Notes | Homemork |
 |:----------:|:----------:|:----------:|:----------:|
@@ -28,7 +28,7 @@ The plan includes 5 formal lectures and several discussion sessions , during whi
 | 2025/2/9 | [Exam 2 (Time: 14:00-16:30)](./Exam2.pdf) | | | 
 | 2025/2/10 | Discussion Session II for Exam 2 | [Notes 6](./Notes/Notes-6.pdf) | | 
 | 2025/2/11 | [Binomial, Hypergeometric and *Normal Distribution (optional)*](./讲义/讲义6.pdf) | [Notes 7](./Notes/Notes-7.pdf) | [HW-6](./HW/HW-6.pdf) |
-| 2025/2/12 | [Statistical Analysis of Paired Data](./讲义/讲义7.pdf) | Notes 8 |  |
+| 2025/2/12 | [Statistical Analysis of Paired Data](./讲义/讲义7.pdf) | [Notes 8](./Notes/Notes-8.pdf) | [HW-7](./HW/HW-7.pdf) |
 
 
 
